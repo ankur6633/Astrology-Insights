@@ -160,7 +160,7 @@ form.addEventListener('submit',(event) => {
 
 
 
-  result.innerText = `${first_message}    ${second_message} ${third_message} ${fourth_message} ${fifth_message} ${sixth_message}
+  result.innerText = `${first_message}, \n  ${second_message}. \n ${third_message} \n ${fourth_message} \n ${fifth_message} \n ${sixth_message}
 `;
 
 
